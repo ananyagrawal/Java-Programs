@@ -2,7 +2,7 @@
 
 There is a 10×10 grid with rows numbered 1 to 10 from top to bottom, and columns 1 to 10 from left to right. Each cell is identified by a pair (r, c) which means that the cell is located at row r and column c.
 
-If Chef's current location is (a,b), then in one move Chef can go to (c,d) if both of the following are satisfied:
+If Chef's current location is (a,b), then in one move Chef can go to (c,d) if **both** of the following are satisfied:
 
 a≠c
 
@@ -10,20 +10,26 @@ b≠d
 
 Determine the minimum number of moves required to go from (sx,sy) to (ex,ey).
 
-**Input Format**
+### Input Format
+
 The first line contains a single integer T — the number of test cases. Then the test cases follow.
 
 The first and only line of each test case contains four integer sx, sy, ex, ey — the coordinates of the starting and ending cells.
 
-**Output Format**
+### Output Format
+
 For each testcase, output the minimum number of moves required to go from (sx,sy) to (ex,ey).
 
-**Constraints**
+### Constraints
+
 1≤T≤1000
+
 1≤sx,sy,ex,ey≤10
+
 (sx,sy)≠(ex,ey)
 
-**Sample Input 1**
+### Sample Input 1
+
 4
 
 1 2 9 8
@@ -34,17 +40,18 @@ For each testcase, output the minimum number of moves required to go from (sx,sy
 
 3 10 8 10
 
-**Sample Output 1** 
-1
-
-2
+### Sample Output 1
 
 1
 
 2
 
-**Explanation**
+1
 
-Test case 1: Chef can go from (1,2) to (9,8) in one move since 1≠9 and 2≠8.
+2
 
-Test case 2: Chef will require at least two moves. One such sequence of moves is (5,5)→(2,3)→(5,7).
+### Explanation
+
+**Test case 1:** Chef can go from (1,2) to (9,8) in one move since 1≠9 and 2≠8.
+
+**Test case 2:** Chef will require at least two moves. One such sequence of moves is (5,5)→(2,3)→(5,7).
