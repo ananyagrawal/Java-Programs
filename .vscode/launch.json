@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Watermelon",
+            "request": "launch",
+            "mainClass": "CODEFORCES.Watermelon",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
             "name": "Launch camelcase4",
             "request": "launch",
             "mainClass": "camelcase4",
