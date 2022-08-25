@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ransom",
+            "request": "launch",
+            "mainClass": "ransom",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Way_Too_Long_Words",
+            "request": "launch",
+            "mainClass": "CODEFORCES.Way_Too_Long_Words",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
             "name": "Launch Watermelon",
             "request": "launch",
             "mainClass": "CODEFORCES.Watermelon",
