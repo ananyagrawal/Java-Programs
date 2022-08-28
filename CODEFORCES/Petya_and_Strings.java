@@ -11,5 +11,6 @@ public class Petya_and_Strings {
         System.out.println(1);
         else
         System.out.println(-1);
+        sc.close();
     }
 }
