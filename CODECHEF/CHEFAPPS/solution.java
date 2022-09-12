@@ -1,4 +1,4 @@
-package CHANGEPOS;
+package CODECHEF.CHEFAPPS;
 
 /* package codechef; // don't place package name! */
 
@@ -15,16 +15,17 @@ class solution
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt();
 		while(t>0){
-		    int a=sc.nextInt();
-		    int b=sc.nextInt();
-		    int c=sc.nextInt();
-		    int d=sc.nextInt();
-		    if(a!=c && b!=d)
-		    System.out.println(1);
-		    else if(a==c && b!=d)
-		    System.out.println(2);
-		    else if(a!=c && b==d)
-		    System.out.println(2);
+		    int s=sc.nextInt();
+		    int x=sc.nextInt();
+		    int y=sc.nextInt();
+		    int z=sc.nextInt();
+		    int remaining=s-(x+y);
+		    if(z>remaining){
+		        if((remaining+x)>=z || (remaining+y)>=z)
+		        System.out.println(1);
+		        else
+		        System.out.println(2);
+		    }
 		    else
 		    System.out.println(0);
 		    t--;

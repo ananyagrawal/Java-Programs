@@ -6,6 +6,230 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch hulk",
+            "request": "launch",
+            "mainClass": "CODEFORCES.hulk",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ultrafastMathematician",
+            "request": "launch",
+            "mainClass": "CODEFORCES.ultrafastMathematician",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch drinks",
+            "request": "launch",
+            "mainClass": "CODEFORCES.drinks",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch calcutaltingFunction",
+            "request": "launch",
+            "mainClass": "CODEFORCES.calcutaltingFunction",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch beautiful_year",
+            "request": "launch",
+            "mainClass": "CODEFORCES.beautiful_year",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch magnets",
+            "request": "launch",
+            "mainClass": "CODEFORCES.magnets",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch presents",
+            "request": "launch",
+            "mainClass": "CODEFORCES.presents",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch inSearchOfEasyProblem",
+            "request": "launch",
+            "mainClass": "CODEFORCES.inSearchOfEasyProblem",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch george_accommodation",
+            "request": "launch",
+            "mainClass": "CODEFORCES.george_accommodation",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch luckyDivision",
+            "request": "launch",
+            "mainClass": "CODEFORCES.luckyDivision",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch venyaFence",
+            "request": "launch",
+            "mainClass": "CODEFORCES.venyaFence",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch translation",
+            "request": "launch",
+            "mainClass": "CODEFORCES.translation",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch football",
+            "request": "launch",
+            "mainClass": "CODEFORCES.football",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringTask",
+            "request": "launch",
+            "mainClass": "CODEFORCES.stringTask",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch chatRoom",
+            "request": "launch",
+            "mainClass": "CODEFORCES.chatRoom",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch antonDanik",
+            "request": "launch",
+            "mainClass": "CODEFORCES.antonDanik",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueAtSchool",
+            "request": "launch",
+            "mainClass": "CODEFORCES.QueueAtSchool",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch nearlyLuckyNumber",
+            "request": "launch",
+            "mainClass": "CODEFORCES.nearlyLuckyNumber",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch wrongSubstraction",
+            "request": "launch",
+            "mainClass": "CODEFORCES.wrongSubstraction",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch word",
+            "request": "launch",
+            "mainClass": "CODEFORCES.word",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch elephant",
+            "request": "launch",
+            "mainClass": "CODEFORCES.elephant",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch soldier_and_bananas",
+            "request": "launch",
+            "mainClass": "CODEFORCES.soldier_and_bananas",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch bear_and_big_brother",
+            "request": "launch",
+            "mainClass": "CODEFORCES.bear_and_big_brother",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch boy_or_girl",
+            "request": "launch",
+            "mainClass": "CODEFORCES.boy_or_girl",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch stones_on_the_table",
+            "request": "launch",
+            "mainClass": "CODEFORCES.stones_on_the_table",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch word_capitalization",
+            "request": "launch",
+            "mainClass": "CODEFORCES.word_capitalization",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Petya_and_Strings",
+            "request": "launch",
+            "mainClass": "CODEFORCES.Petya_and_Strings",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch beautiful_matrix",
+            "request": "launch",
+            "mainClass": "CODEFORCES.beautiful_matrix",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bit",
+            "request": "launch",
+            "mainClass": "CODEFORCES.Bit",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch domino_piling",
+            "request": "launch",
+            "mainClass": "CODEFORCES.domino_piling",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch next_round",
+            "request": "launch",
+            "mainClass": "CODEFORCES.next_round",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Team",
+            "request": "launch",
+            "mainClass": "CODEFORCES.Team",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
             "name": "Launch ransom",
             "request": "launch",
             "mainClass": "ransom",
