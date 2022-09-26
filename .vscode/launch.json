@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch horseshoe",
+            "request": "launch",
+            "mainClass": "CODEFORCES.horseshoe",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch easyPronunciation",
+            "request": "launch",
+            "mainClass": "CODECHEF.easyPronunciation",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
             "name": "Launch hulk",
             "request": "launch",
             "mainClass": "CODEFORCES.hulk",
