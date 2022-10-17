@@ -15,7 +15,7 @@ class Student
 	public static void main(String args[])
 	{
 		Student s1=new Student();
-		s1.input(8,"Anany");
+		s1.input(8,"Anany Agrawal");
 		s1.display();
 	}
 }
