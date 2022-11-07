@@ -1,12 +1,7 @@
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
-class Result {
+class res2 {
 
     /*
      * Complete the 'breakingRecords' function below.
@@ -58,7 +53,7 @@ public class breakingRecords {
             scores.add(scoresItem);
         }
 
-        List<Integer> result = Result.breakingRecords(scores);
+        List<Integer> result = res2.breakingRecords(scores);
 
         for (int i = 0; i < result.size(); i++) {
             bufferedWriter.write(String.valueOf(result.get(i)));
