@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch amusingJoke",
+            "request": "launch",
+            "mainClass": "CODEFORCES.amusingJoke",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch antonPolyhedrons",
+            "request": "launch",
+            "mainClass": "CODEFORCES.antonPolyhedrons",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch games",
+            "request": "launch",
+            "mainClass": "CODEFORCES.games",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch hitLottery",
+            "request": "launch",
+            "mainClass": "CODEFORCES.hitLottery",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch antonLetters",
+            "request": "launch",
+            "mainClass": "CODEFORCES.antonLetters",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsciiToCharacter",
+            "request": "launch",
+            "mainClass": "AsciiToCharacter",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsciiToCharacter",
+            "request": "launch",
+            "mainClass": "CODEFORCES.AsciiToCharacter",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch pangram",
+            "request": "launch",
+            "mainClass": "CODEFORCES.pangram",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch divisibilityProblem",
+            "request": "launch",
+            "mainClass": "CODEFORCES.divisibilityProblem",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch insomiaCure",
+            "request": "launch",
+            "mainClass": "CODEFORCES.insomiaCure",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch generalArrival",
+            "request": "launch",
+            "mainClass": "generalArrival",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch general_arrival",
+            "request": "launch",
+            "mainClass": "CODEFORCES.general_arrival",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
             "name": "Launch horseshoe",
             "request": "launch",
             "mainClass": "CODEFORCES.horseshoe",
