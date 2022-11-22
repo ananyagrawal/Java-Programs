@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch restoringThreeNumbers",
+            "request": "launch",
+            "mainClass": "CODEFORCES.restoringThreeNumbers",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch meetingFriends",
+            "request": "launch",
+            "mainClass": "CODEFORCES.meetingFriends",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch buyShovel",
+            "request": "launch",
+            "mainClass": "CODEFORCES.buyShovel",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumRoundNumbers",
+            "request": "launch",
+            "mainClass": "CODEFORCES.sumRoundNumbers",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch vasyaHipster",
+            "request": "launch",
+            "mainClass": "CODEFORCES.vasyaHipster",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch newyearhurry",
+            "request": "launch",
+            "mainClass": "CODEFORCES.newyearhurry",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch policeRecruits",
+            "request": "launch",
+            "mainClass": "CODEFORCES.policeRecruits",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch fox_snake",
+            "request": "launch",
+            "mainClass": "CODEFORCES.fox_snake",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch i_love_username",
+            "request": "launch",
+            "mainClass": "CODEFORCES.i_love_username",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
+            "name": "Launch candiesTwoSisters",
+            "request": "launch",
+            "mainClass": "CODEFORCES.candiesTwoSisters",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
             "name": "Launch amusingJoke",
             "request": "launch",
             "mainClass": "CODEFORCES.amusingJoke",
