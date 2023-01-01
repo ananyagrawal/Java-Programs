@@ -1,7 +1,6 @@
 package CodingNinjas;
 
 import java.util.*;
-import java.io.*;
 
 class rotateArray {
 
