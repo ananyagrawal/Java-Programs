@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Java Programs_9c394b20"
+        },
+        {
+            "type": "java",
             "name": "Launch restoringThreeNumbers",
             "request": "launch",
             "mainClass": "CODEFORCES.restoringThreeNumbers",
